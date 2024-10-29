@@ -7,7 +7,7 @@
 
   <h2 align="center">Chetan Solanki - Personal Portfolio Website</h2>
 
-  Richard Ryan is a fully responsive portfolio website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
+  Chetan Solanki is a fully responsive portfolio website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
   <a href=""><strong>➥ Live Demo</strong></a>
 
