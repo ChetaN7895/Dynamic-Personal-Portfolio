@@ -1,0 +1,100 @@
+Chetan Solanki
+
+This is a personal portfolio html template, made by Chetan Solanki.
+
+
+
+#---------- HEADER ----------#
+
+alt = Chetan home
+
+aria-label = open menu
+alt = menu icon
+
+alt = Chetan home
+
+aria-label = close menu
+
+Home
+Gallery
+About
+Services
+skills
+Portfolio
+Contact us
+
+alt = user icon
+Login
+
+My Address
+
+sumerpur , pali , rajasthan
+
+
+
+#---------- CATEGORY ----------#
+Ui
+front-end
+full-stack
+
+
+
+#---------- CATEGORY ----------#
+
+Hi. I’m
+Chetan solanki
+
+A passionate
+front-end developer
+who are working in this field for 
+last 1 years. 
+I’m ready to give you my best.
+
+alt = signature
+
+alt = Chetan Solanki
+
+
+
+#---------- SERVICE ----------#
+
+My Services
+
+web-developer
+
+
+
+#---------- PORTFOLIO ----------#
+
+My Recent Work.
+
+
+#---------- CONTACT ----------#
+
+Contact Us
+
+
+
+#---------- FOOTER ----------#
+
+alt = home
+
+Fa.
+Insta.
+
+Made with love Chetan solanki
+
+
+
+
+#---------- BACK TO TOP ----------#
+
+aria-label = back to top
+
+
+
+#---------- LOADING ----------#
+
+alt = loading
+
+alt = loading shape
