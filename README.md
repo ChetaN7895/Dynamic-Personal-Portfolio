@@ -39,7 +39,7 @@ sudo git clone https://github.com/ChetaN7895/Dynamic-Personal-Portfolio
 Windows:
 
 ```bash
-git clone 
+git clone https://github.com/ChetaN7895/Dynamic-Personal-Portfolio
 ```
 
 ### Contact
