@@ -28,7 +28,7 @@ Before you begin, ensure you have met the following requirements:
 
 ### Run Locally
 
-To run **Richard Ryan** locally, run this command on your git bash:
+To run **Chetan Solanki** locally, run this command on your git bash:
 
 Linux and macOS:
 
