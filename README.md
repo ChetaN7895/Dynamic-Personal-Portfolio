@@ -16,7 +16,8 @@
 <br />
 
 ### Demo Screeshots
-![Chetan Solanki - Google Chrome 27-10-2024 12_05_58](https://github.com/user-attachments/assets/6005b441-cffc-422a-9d86-f13698b74d11)
+![Chetan Solanki - Google Chrome 03-11-2024 13_43_46](https://github.com/user-attachments/assets/6330fc32-d5e6-4d20-8735-e5ee04fe624c)
+
 
 
 ### Prerequisites
